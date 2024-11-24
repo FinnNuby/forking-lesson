@@ -1,2 +1,13 @@
-Finn Ignacio
-Version Control
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuschia
+Purple
+Brown
+Red
